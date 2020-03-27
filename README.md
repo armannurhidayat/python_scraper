@@ -1,5 +1,5 @@
 # python_scraper
 
-| name | description |
+| website | description |
 |-----------|--------------------------------------------|
 | sobatkeren.club	| Movie |
