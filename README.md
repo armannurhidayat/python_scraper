@@ -1,4 +1,4 @@
-# python_scraper
+# python scraper
 
 | website | description |
 |-----------|--------------------------------------------|
