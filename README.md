@@ -4,3 +4,4 @@
 |-----------|--------------------------------------------|
 | sobatkeren.club	| Movie |
 | codepolitan.com	| Online Course |
+| kawalcorona.com | Data |
