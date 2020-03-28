@@ -20,22 +20,6 @@ print("""
 selected = int(input('Select Menu : '))
 
 
-# featureds = [rec for rec in soup.find('div', attrs={'id': 'featured'})]
-
-# for featured in featureds:
-#     try:
-#         judul = featured.find('div', attrs={'class': 'judul'}).text
-#         link = featured.a['href']
-#         kualitas = featured.find('span', attrs={'class', 'mli-mvi'}).text
-#         rate = featured.find('span', attrs={'class', 'mli-rating'}).text[0:3]
-#         duration = featured.find('span', attrs={'class', 'mli-rating'}).text[3:]
-#         poster = featured.find('img', attrs={'class', 'mli-thumb'})['src']
-#     except:
-#         judul = None
-#         kualitas = None
-
-
-
 if selected == 1:
     csv_writer.writerow(['List Film Populer'])
     csv_writer.writerow(['Judul', 'Link', 'Kualitas', 'Rating', 'Duration', 'Poster'])
