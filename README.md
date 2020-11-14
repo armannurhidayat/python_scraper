@@ -8,3 +8,4 @@
 | litequran.net | Al-qur'an |
 | nilaiemas.com | Data harga emas |
 | thegreatestbooks.org | Data Buku |
+| www.joopzy.com | E-commerce |
