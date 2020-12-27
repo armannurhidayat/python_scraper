@@ -1,0 +1,2 @@
+mysql-connector-python-rf==2.2.2
+selenium>=3.141.0
